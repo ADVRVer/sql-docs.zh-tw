@@ -1,5 +1,5 @@
 ---
-description: " 的版本和支援功能[!INCLUDE[sssqlv15-md](../includes/sssqlv15-md.md)]"
+description: "[!INCLUDE[sssqlv15-md](../includes/sssqlv15-md.md)] 的版本和支援功能"
 title: SQL Server 2019 的版本及支援功能 | Microsoft Docs
 ms.custom: ''
 ms.date: 11/04/2019
